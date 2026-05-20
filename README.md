@@ -12,11 +12,10 @@ Hi, I'm **A'laa**.
 
 - [Customer Churn Prediction](https://github.com/alaamuhammed6666/Customer-Churn-Prediction_DEPI) → machine learning pipeline to predict customer churn, built as part of the DEPI data engineering track.
 - **Broadcast Server** → real-time TCP-based group chat system with concurrent client handling, unique user identification, and auto-disconnection cleanup. Configurable via JSON.
-- **Weather App** → web app that fetches live weather data from OpenWeatherMap API, displaying temperature, humidity, wind speed, and conditions with a responsive UI.
-- **Task Tracker** → clean task management web app with add, complete, and delete functionality, persisted via localStorage.
-- **Round Robin OS Scheduler** → step-by-step simulation of the Round Robin CPU scheduling algorithm used in time-sharing operating systems.
-- **Vehicle Routing Problem (VRP)** → solved VRP using a genetic algorithm (initialization, fitness evaluation, selection, crossover, mutation) with a Pac-Man-inspired GUI to minimize vehicle distances and respect capacity constraints.
-- **La Maison — Restaurant Management System** → professional system with a custom-painted UI, role-based access control, real-time notifications via the Observer pattern, automated loyalty rewards, and persistent data storage.
+
+- **Round Robin OS Scheduler** → step-by-step simulation of the Round Robin CPU scheduling algorithm used in time-sharing operating systems.http://github.com/alaamuhammed6666/OS-Project
+- **Vehicle Routing Problem (VRP)** → solved VRP using a genetic algorithm (initialization, fitness evaluation, selection, crossover, mutation) with a Pac-Man-inspired GUI to minimize vehicle distances and respect capacity constraints. https://lnkd.in/giR9aicw
+- **La Maison — Restaurant Management System** → professional system with a custom-painted UI, role-based access control, real-time notifications via the Observer pattern, automated loyalty rewards, and persistent data storage. 
 
 
 **Building**
