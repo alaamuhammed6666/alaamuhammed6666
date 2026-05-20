@@ -3,7 +3,7 @@ Hi, I'm **A'laa**.
 - Computer Science student at [Helwan National University](http://www.hnu.edu.eg/)
 - Interested in backend development, databases, and data engineering.
 - Building things with Python, JavaScript, and C++.
-- Competitive Programming enthusiast — training with the [HNU-FCSIT ICPC Community](https://www.facebook.com/fcsit.hnu.icpc), solving problem sets to sharpen algorithmic thinking.
+- Competitive Programming enthusiast - training with the [HNU-FCSIT ICPC Community](https://www.facebook.com/fcsit.hnu.icpc), solving problem sets to sharpen algorithmic thinking.
 - Currently a Microsoft Data Engineering Trainee at [DEPI (Digital Egypt Pioneers Initiative)](https://depi.gov.eg/).
 - [See my CV](mailto:alaasedeek07@gmail.com)
 
@@ -15,7 +15,7 @@ Hi, I'm **A'laa**.
 
 - **Round Robin OS Scheduler** → step-by-step simulation of the Round Robin CPU scheduling algorithm used in time-sharing operating systems.http://github.com/alaamuhammed6666/OS-Project
 - **Vehicle Routing Problem (VRP)** → solved VRP using a genetic algorithm (initialization, fitness evaluation, selection, crossover, mutation) with a Pac-Man-inspired GUI to minimize vehicle distances and respect capacity constraints. https://lnkd.in/giR9aicw
-- **La Maison — Restaurant Management System** → professional system with a custom-painted UI, role-based access control, real-time notifications via the Observer pattern, automated loyalty rewards, and persistent data storage. 
+
 
 
 **Building**
